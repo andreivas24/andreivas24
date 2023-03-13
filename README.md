@@ -2,7 +2,7 @@
 
 **My name is Andrei and I enjoy working on programming stuff that I can give others to use.**
 
-Some little things about me :) <br/>
+<ins>Some little things about me :smile:</ins> <br/>
 
 -:technologist::I'm currently working on .Net project. <br/>
 -:books::I'm currently learning about .Net and C#. <br/>
