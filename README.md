@@ -3,7 +3,7 @@
 **My name is Andrei and I enjoy working on programming stuff that I can give others to use.**
 
 Some little things about me :)
-:technologist: :I'm currently working on .Net project.
+-:technologist::I'm currently working on .Net project.
 :books: :I'm currently learning about .Net and C#.
 :handshake: :I’m looking to collaborate on anything that can develop myself and also seems fun and interesting.
 :speech_balloon: :Ask me about anything you want I guess.
