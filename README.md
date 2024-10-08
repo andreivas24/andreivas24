@@ -5,7 +5,7 @@
 <ins>Some little things about me :smile:</ins> <br/>
 
 - :technologist:: I'm currently working on a .Net project. <br/>
--:books::I'm currently learning about .Net and C#. <br/>
--:handshake::I’m looking to collaborate on anything that can develop myself and also seems fun and interesting. <br/>
--:speech_balloon::Ask me about anything you want I guess. <br/>
--:mailbox::How to reach me: instagram/aandrei24 or andrei24_vasilache@yahoo.com
+- :books:: I'm currently learning about .Net and C#. <br/>
+- :handshake:: I’m looking to collaborate on anything that can develop myself and also seems fun and interesting. <br/>
+- :speech_balloon:: Ask me about anything you want I guess. <br/>
+- :mailbox:: How to reach me: instagram/aandrei24 or andrei24_vasilache@yahoo.com
